@@ -1,0 +1,7 @@
+ SUBROUTINE AKIM_1D (1D interpolation)
+ Will work: nin=  8
+ Decrease at beginning of curve. ndata=  9
+ Increase at the end of curve. ndata= 10
+  Order of arguments is RIGHT
+  add1point= T  add2point= T
+ i_data=  3 i_datb=  8nin_1=  7

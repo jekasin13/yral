@@ -100,7 +100,7 @@ TurbineLP_frmTurCharFile_txt=
 CompressorLP_frmCmpCharFile_txt=
 CoreOptions_frmSuccessWAV=SystemNotification
 CoreOptions_frmFailWAV=SystemHand
-ICE_Simulation_frmComment=всх 75 открытие выпуска
+ICE_Simulation_frmComment=всх 60 открытие выпуска
 
 [Float]
 CPG_frmFloat_Field4=0.323
@@ -351,7 +351,7 @@ GasExchange_frmFloat_Field46=400
 GasExchange_frmFloat_Field47=15
 GasExchange_frmFloat_Field48=45
 GasExchange_frmFloat_Field49=5
-GasExchange_frmFloat_Field25=75
+GasExchange_frmFloat_Field25=60
 GasExchange_frmff4tExhaustDuration=240
 GasExchange_frmFloat_Field26=30
 GasExchange_frmFloat_Field71=45
