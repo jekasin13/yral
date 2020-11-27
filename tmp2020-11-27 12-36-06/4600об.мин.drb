@@ -100,7 +100,7 @@ TurbineLP_frmTurCharFile_txt=
 CompressorLP_frmCmpCharFile_txt=
 CoreOptions_frmSuccessWAV=SystemNotification
 CoreOptions_frmFailWAV=SystemHand
-ICE_Simulation_frmComment=Влияние перекрытия на всх выпуск  30 впуск 30
+ICE_Simulation_frmComment=Влияние перекрытия на всх выпуск 20впуск 30
 
 [Float]
 CPG_frmFloat_Field4=0.323
@@ -353,7 +353,7 @@ GasExchange_frmFloat_Field48=45
 GasExchange_frmFloat_Field49=5
 GasExchange_frmFloat_Field25=62
 GasExchange_frmff4tExhaustDuration=240
-GasExchange_frmFloat_Field26=30
+GasExchange_frmFloat_Field26=18
 GasExchange_frmFloat_Field71=45
 GasExchange_frmFloat_Field7=55
 GasExchange_frmFloat_Field8=55
